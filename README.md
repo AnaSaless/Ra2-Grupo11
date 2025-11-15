@@ -9,8 +9,8 @@
 **Professor:** Frank Coelho de Alcantara  
 
 ### Alunos do Grupo (em ordem alfabética)
-- Ana Carolina Afonso Meiado - GitHub: @nacalorias
-- Ana Carolina Curi de Sales - GitHub: @AnaSaless
+- Ana Carolina Afonso Meiado - GitHub: [@nacalorias](https://github.com/nacalorias)  
+- Ana Carolina Curi de Sales - GitHub: [@AnaSaless](https://github.com/AnaSaless)  
 
 ## Descrição do Projeto
 
