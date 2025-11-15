@@ -1,0 +1,10 @@
+LogEntry {timestamp = 2025-11-03 21:38:36.206297859 UTC, acao = Add, detalhes = "Adicionado: tec001 - Mouse (Qtd: 50, Cat: Perifericos)", status = Sucesso}
+LogEntry {timestamp = 2025-11-03 21:38:36.206297859 UTC, acao = Add, detalhes = "Adicionado: tec002 - Teclado (Qtd: 30, Cat: Perifericos)", status = Sucesso}
+LogEntry {timestamp = 2025-11-03 21:38:36.206297859 UTC, acao = Add, detalhes = "Adicionado: tec003 - Monitor (Qtd: 20, Cat: Monitores)", status = Sucesso}
+LogEntry {timestamp = 2025-11-03 21:38:36.206297859 UTC, acao = Add, detalhes = "Adicionado: tec004 - Webcam (Qtd: 15, Cat: Perifericos)", status = Sucesso}
+LogEntry {timestamp = 2025-11-03 21:38:36.206297859 UTC, acao = Add, detalhes = "Adicionado: tec005 - HeadsetUSB (Qtd: 25, Cat: Audio)", status = Sucesso}
+LogEntry {timestamp = 2025-11-03 21:38:36.206297859 UTC, acao = Add, detalhes = "Adicionado: mob001 - Cadeira (Qtd: 10, Cat: Moveis)", status = Sucesso}
+LogEntry {timestamp = 2025-11-03 21:38:36.206297859 UTC, acao = Add, detalhes = "Adicionado: mob002 - Mesa (Qtd: 8, Cat: Moveis)", status = Sucesso}
+LogEntry {timestamp = 2025-11-03 21:38:36.206297859 UTC, acao = Add, detalhes = "Adicionado: ele001 - Notebook (Qtd: 12, Cat: Computadores)", status = Sucesso}
+LogEntry {timestamp = 2025-11-03 21:38:36.206297859 UTC, acao = Add, detalhes = "Adicionado: ele002 - Tablet (Qtd: 18, Cat: Computadores)", status = Sucesso}
+LogEntry {timestamp = 2025-11-03 21:38:36.206297859 UTC, acao = Add, detalhes = "Adicionado: mat001 - CanetaAzul (Qtd: 100, Cat: Material)", status = Sucesso}
